@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65555127259",
+    "firebase_url": "https://blind-maze-game-default-rtdb.firebaseio.com",
+    "project_id": "blind-maze-game",
+    "storage_bucket": "blind-maze-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65555127259:android:fca3fa0d753632cc4b65fe",
+        "android_client_info": {
+          "package_name": "com.blindmazegame.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65555127259-mc7moubc33v3te3c36uuthia49imibf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRL6XQrPVHNnAqaFuNuPr-H8fhYgfyBZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65555127259-mc7moubc33v3te3c36uuthia49imibf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
