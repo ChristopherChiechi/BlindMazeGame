@@ -2,7 +2,8 @@
 
 This game is an experiment to determine how effective audio cues are in guiding the player.
 Half of the levels will be played with visuals only, while the other half will be played with audio only.
-The results will help to evaluate the effectiveness of audio cues in both normal games and audio games for the blind.
+The results will help to evaluate the effectiveness of audio cues in both normal games and audio games for the blind.  
+
 Note: This must be played with headphones.
 
 # Research Papers
@@ -15,14 +16,14 @@ K. Allain et al., "An audio game for training navigation skills of blind childre
 
 # Gameplay
 
-Players must navigate through a 2D maze as fast as possible. The first half of the game will be played with visuals only, while the second half will be played with audio only. There are 3 tutorials and 6 timed levels.
-During the audio levels, the screen is black and the player must navigate by using the following audio cues:
-Up = High pitch noise in both headphones 
-Down = Low pitch noise in both headphones 
-Right = Mid pitch noise only in right headphone
-Left = Mid pitch noise only in left headphone
+Players must navigate through a 2D maze as fast as possible. The first half of the game will be played with visuals only, while the second half will be played with audio only. There are 3 tutorials and 6 timed levels. During the audio levels, the screen is black, and the player must navigate by using the following audio cues:  
+- Up = High pitch noise in both headphones  
+- Down = Low pitch noise in both headphones  
+- Right = Mid pitch noise only in right headphone  
+- Left = Mid pitch noise only in left headphone  
+
 After completing the game, the player will see a scoreboard of their times, which are then posted to a Firebase database.
 
-#itch.io
+# Download
 
 https://christopher-chiechi.itch.io/blind-maze-game
